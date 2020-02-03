@@ -1,0 +1,15 @@
+This is an app for a computer repair shop.
+So customer orders a cable or power supply or whatever, and the employee
+enters the data :
+
+part name
+customer
+retailer
+price
+
+then we have several buttons such as Add Part 
+Remove Part
+Update Part
+Clear Input
+
+This project can be customized for any type of product or for appointment setting in a dentist clinic or whatever.
